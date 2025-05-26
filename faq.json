@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What are the specifications of the latest smartphone?",
+    "answer": "Our latest smartphone features a 6.7-inch OLED display, 128GB storage, and a Snapdragon 8 Gen 2 processor."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the link emailed to you after purchase or by logging into your account."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return products within 30 days of delivery. They must be in original condition with packaging."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept Visa, MasterCard, PayPal, and UPI."
+  },
+  {
+    "question": "What is the warranty period for laptops?",
+    "answer": "All laptops come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "Do accessories have a warranty?",
+    "answer": "Yes, most accessories have a 6-month warranty. Check the specific product page for details."
+  }
+]
